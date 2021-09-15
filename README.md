@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github.com/bruno99/bruno99/blob/main/header.png?raw=true
+
 <!--
 **bruno99/bruno99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
