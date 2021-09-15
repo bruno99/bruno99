@@ -5,7 +5,7 @@
 <br/>  
 
 
-## Rapidfire  
+## About me  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on LG Electronics  
