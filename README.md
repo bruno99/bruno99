@@ -8,10 +8,10 @@
 ## About me  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on LG Electronics  
+- 🔭 I’m currently working on Daimler (Mercedes-Benz)
   
 
-- 🌱 I’m currently learning Computer Science Engineering and Project Management Master  
+- 🌱 I’m currently learning Computer Science Engineering and Decision making & innovation 2.0 master
   
 
 - 😄 Pronouns: He/Him  
