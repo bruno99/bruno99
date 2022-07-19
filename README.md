@@ -8,7 +8,7 @@
 ## About me  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Daimler (Mercedes-Benz)
+- 🔭 I’m currently working at Mercedes-Benz as a Requirements engineer
   
 
 - 🌱 I’m currently learning Computer Science Engineering and Decision making & innovation 2.0 master
