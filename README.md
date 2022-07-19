@@ -1,7 +1,6 @@
 
 ## Hey 👋, I'm Bruno  
   
-
 <br/>  
 
 
@@ -17,6 +16,7 @@
 - 😄 Pronouns: He/Him  
 
 
+- 💻 <a href="https://www.kaggle.com/brunourbnalfaro">My Kaggle profile</a>
 </td><td valign="top" width="50%">
 
 <div align="right">
