@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at Mercedes-Benz as a Requirements engineer
   
 
-- 🌱 I’m currently learning Computer Science Engineering and Decision making & innovation 2.0 master
+- 🌱 I’m currently learning Computer Science Engineering and Decision making & innovation 2.0 master and Google Data Analytics 
   
 
 - 😄 Pronouns: He/Him  
