@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Bruno  
+## Hey 👋, I'm Bruno, a Computer Science Engineer
   
 <br/>  
 
@@ -10,13 +10,16 @@
 - 🔭 I’m currently working at Mercedes-Benz as a Requirements engineer
   
 
-- 🌱 I’m currently learning Computer Science Engineering and Decision making & innovation 2.0 master and Google Data Analytics 
+- 🌱 I’m currently Big Data & Bussiness Analytics Master 
   
 
 - 😄 Pronouns: He/Him  
 
 
 - 💻 <a href="https://www.kaggle.com/brunourbnalfaro">My Kaggle profile</a>
+</td><td valign="top" width="50%">
+  
+  - 📈 <a href="https://public.tableau.com/app/profile/bruno2024">My Tableau profile</a>
 </td><td valign="top" width="50%">
 
 <div align="right">
