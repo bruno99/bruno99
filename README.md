@@ -20,9 +20,6 @@
 </td><td valign="top" width="50%">
 
   
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=bruno99&&style=flat-square" align="right" />
-</div>  
 
 
 </td></tr></table>  
