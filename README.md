@@ -11,10 +11,6 @@
   
 
 - 🌱 I’m currently learning Big Data & Bussiness Analytics Master 
-  
-
-- 😄 Pronouns: He/Him  
-
 
 - 💻 <a href="https://www.kaggle.com/brunourbnalfaro">My Kaggle profile</a>
 </td><td valign="top" width="50%">
@@ -22,6 +18,7 @@
 - 📈 <a href="https://public.tableau.com/app/profile/bruno2024">My Tableau profile</a>
 </td><td valign="top" width="50%">
 
+- 😄 Pronouns: He/Him  
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=bruno99&&style=flat-square" align="right" />
 </div>  
