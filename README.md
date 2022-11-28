@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at Mercedes-Benz as a Requirements engineer
   
 
-- 🌱 I’m currently Big Data & Bussiness Analytics Master 
+- 🌱 I’m currently learning Big Data & Bussiness Analytics Master 
   
 
 - 😄 Pronouns: He/Him  
@@ -19,7 +19,7 @@
 - 💻 <a href="https://www.kaggle.com/brunourbnalfaro">My Kaggle profile</a>
 </td><td valign="top" width="50%">
   
-  - 📈 <a href="https://public.tableau.com/app/profile/bruno2024">My Tableau profile</a>
+- 📈 <a href="https://public.tableau.com/app/profile/bruno2024">My Tableau profile</a>
 </td><td valign="top" width="50%">
 
 <div align="right">
