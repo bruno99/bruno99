@@ -11,7 +11,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🌱 I’m currently learning Big Data & Bussiness Analytics Master 
+- 🌱 I’m currently learning Big Data & Business Analytics Master 
 
 - 💻 <a href="https://www.kaggle.com/brunourbnalfaro">My Kaggle profile</a>
 </td><td valign="top" width="50%">
