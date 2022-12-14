@@ -7,7 +7,7 @@
 ## About me  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working at Mercedes-Benz as a Requirements engineer
+- 🔭 I’m currently working at SDG Group as a Data Analyst
 
 - 😄 Pronouns: He/Him
 
