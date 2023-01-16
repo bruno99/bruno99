@@ -28,11 +28,10 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bruno99&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno99&hide_border=true&layout=compact" align="left" />
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=bruno99&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno99&theme=react&layout=compact" />
+</p>
 
 </td></tr></table>  
 
