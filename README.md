@@ -16,12 +16,14 @@
 - 🌱 I’m currently learning Big Data & Business Analytics Master 
 
    </td><td valign="top" width="50%">
+  
 - 💻 <a href="https://www.kaggle.com/brunourbnalfaro">My Kaggle profile</a>
 
   
 - 📈 <a href="https://public.tableau.com/app/profile/bruno2024">My Tableau profile</a>
 
 - 📖 <a href="https://www.linkedin.com/in/bruno-urb%C3%A1n-alfaro-3319211b5/">My LinkedIn</a>     
+  
 
 </td></tr></table>  
 
