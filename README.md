@@ -5,7 +5,7 @@
 
 
 ## About me  
-<table><tr><td valign="top" width="80%">
+<table><tr><td valign="top" width="70%">
   
 - 📍 Madrid, Spain  
 
