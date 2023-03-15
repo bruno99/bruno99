@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning Big Data & Business Analytics Master 
 
-   </td><td valign="top" width="50%">
+   </td><td valign="top" width="70%">
   
  💻 <a href="https://www.kaggle.com/brunourbnalfaro">My Kaggle profile</a>
 
