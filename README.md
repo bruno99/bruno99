@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Bruno, a Computer Science Engineer
+## Hey 👋, I'm Bruno, a Computer Science Engineer with a Master's degree in Big Data & Business Analytics 
   
 <br/>  
 
@@ -9,11 +9,10 @@
   
 - 📍 Madrid, Spain  
 
-- 🔭 I’m currently working at SDG Group as a Data Analyst
+- 🔭 I’m currently working as a Data Analyst
 
 - 😄 Pronouns: He/Him
 
-- 🌱 I’m currently learning Big Data & Business Analytics Master 
 
    </td><td valign="top" width="70%">
   
