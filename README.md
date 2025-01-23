@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Bruno, a Computer Science Engineer specialize in AI and Data
+## Hey 👋, I'm Bruno, a Computer Science Engineer specialized in AI and Data
   
 <br/>  
 
