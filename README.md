@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Bruno, a Computer Science Engineer with a Master's degree in Big Data & Business Analytics 
+## Hey 👋, I'm Bruno, a Computer Science Engineer specialize in AI and Data
   
 <br/>  
 
@@ -9,7 +9,7 @@
   
 - 📍 Madrid, Spain  
 
-- 🔭 I’m currently working as a Data Analyst
+- 🔭 I’m currently working as a GenAI Engineer
 
 - 😄 Pronouns: He/Him
 
