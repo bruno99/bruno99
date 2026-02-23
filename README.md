@@ -9,7 +9,7 @@
   
 - 📍 Madrid, Spain  
 
-- 🔭 I’m currently working as a GenAI Engineer
+- 🔭 I’m currently working as a Data & AI Engineer
 
 - 😄 Pronouns: He/Him
 
